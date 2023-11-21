@@ -1,5 +1,9 @@
 # test_private_crm
 
+### Решение тестового задания
+опубликованного тут https://gitlab.com/sibkod/test/-/tree/main?ref_type=heads
+Исходный файл с данными data.json находится в папке public/data/
+
 ## Project setup
 ```
 npm install
