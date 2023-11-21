@@ -1,4 +1,7 @@
 # test_private_crm
+### Решение тестового задания
+Исходный файл data.json находится в папке public/data/ 
+
 
 ## Project setup
 ```
