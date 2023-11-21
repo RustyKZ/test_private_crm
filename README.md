@@ -1,4 +1,7 @@
 # test_private_crm
+### Решение тестового задания
+Исходный файл data.json находится в папке public/data/ 
+
 
 ### Решение тестового задания
 опубликованного тут https://gitlab.com/sibkod/test/-/tree/main?ref_type=heads
